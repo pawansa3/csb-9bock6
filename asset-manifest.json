@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://pawansa3.github.io/csb-9bock6/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://pawansa3.github.io/csb-9bock6/static/js/main.4b8dc550.chunk.js",
+    "main.js.map": "https://pawansa3.github.io/csb-9bock6/static/js/main.4b8dc550.chunk.js.map",
+    "runtime-main.js": "https://pawansa3.github.io/csb-9bock6/static/js/runtime-main.0b8f966c.js",
+    "runtime-main.js.map": "https://pawansa3.github.io/csb-9bock6/static/js/runtime-main.0b8f966c.js.map",
+    "static/js/2.350e91d5.chunk.js": "https://pawansa3.github.io/csb-9bock6/static/js/2.350e91d5.chunk.js",
+    "static/js/2.350e91d5.chunk.js.map": "https://pawansa3.github.io/csb-9bock6/static/js/2.350e91d5.chunk.js.map",
+    "index.html": "https://pawansa3.github.io/csb-9bock6/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://pawansa3.github.io/csb-9bock6/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.350e91d5.chunk.js.LICENSE.txt": "https://pawansa3.github.io/csb-9bock6/static/js/2.350e91d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b8f966c.js",
+    "static/js/2.350e91d5.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.4b8dc550.chunk.js"
+  ]
+}
